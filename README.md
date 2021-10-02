@@ -7,7 +7,7 @@ ______________
 
 * **RAM**: 12GB DDR3 @ 1600MHz | 8GB SO-DIMM, 4GB Solidered
 
-* **WiFi and Ethernet**: WiFi - Qualcomm Atheros AR9485 | Ethernet: Realtek PCIe GbE Family Controller
+* **WiFi and Ethernet**: WiFi - Qualcomm Atheros AR9485 | Ethernet - Realtek PCIe GbE Family Controller
 ______________
 ## Software Info:
 * **Bootloader**: [OpenCore](https://github.com/acidanthera/OpenCorePkg)
