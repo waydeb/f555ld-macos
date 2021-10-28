@@ -11,7 +11,10 @@ ______________
 ______________
 ## Software Info:
 * **Bootloader**: [OpenCore](https://github.com/acidanthera/OpenCorePkg)
-* **macOS Version**: macOS 11.6.1 - Big Sur | Known working versions, macOS 10.14, macOS 10.15, macOS 11
+* **macOS Version**: macOS 11.6.1 - Big Sur | Known working versions, macOS 10.14, macOS 10.15, macOS 11, macOS 12
+______________
+## Walkthrough
+* See macOS/12/README.md
 ______________
 ## Issues:
 * **Ethernet**: To have working Ethernet, you will need to use a kext injector to inject the kext either to S/L/E or L/E, loading the kext via OpenCore doesn't appear to work.
@@ -20,7 +23,7 @@ ______________
 * Overall the setup for installing macOS using OpenCore was quite painless, with the only issue being Ethernet which is a quick fix within itself anyways.
 ______________
 ## Notes:
-* I haven't been able to successfully get a version of the macOS Monterey 12.0 beta to boot yet, but I am working hard on doing so.
+* If you want to update to macOS 12 on this system, you'll need to use MacBookPro11,4 or newer.
 ______________
 ## Questions?
 * Please make an issue.
