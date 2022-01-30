@@ -11,7 +11,7 @@ ______________
 ______________
 ## Software Info:
 * **Bootloader**: [OpenCore](https://github.com/acidanthera/OpenCorePkg)
-* **macOS Version**: macOS 12.0.1 - Monterey | Known working versions, macOS 10.14, macOS 10.15, macOS 11, macOS 12
+* **macOS Version**: macOS 12.0.1 - Monterey | Known working versions, macOS 10.14, macOS 10.15, macOS 11, macOS 12, macOS 12.1
 ______________
 ## Walkthrough
 * See macOS/12/README.md
